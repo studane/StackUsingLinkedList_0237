@@ -120,4 +120,7 @@ int main()
             }
             break;
 
+        case 4:
+            cout << "exiting program." << endl;
+            break;
         
