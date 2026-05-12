@@ -92,4 +92,5 @@ int main()
         cout << "enter your choice:";
         cin >> choice;
 
+        switch (choice)
         
