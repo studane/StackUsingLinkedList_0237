@@ -69,4 +69,10 @@ public:
         } // return the value of the top node
     }
 
-    
+    //is empty operation: check of the stack is empty
+    bool isempty()
+    {
+        return top == NULL; //return true if the top pointer is null, indicatig an empty stack
+    }
+};
+
